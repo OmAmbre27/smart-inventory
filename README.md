@@ -67,16 +67,6 @@ project/
 
 ---
 
-## 🖼️ Screenshots
-
-> _Add your own screenshots in this section!_
-
-| Dashboard | Inventory Table |
-|-----------|----------------|
-| ![Dashboard](https://placehold.co/400x200?text=Dashboard) | ![Inventory](https://placehold.co/400x200?text=Inventory) |
-
----
-
 ## 🤝 Contributing
 
 1. Fork this repo
